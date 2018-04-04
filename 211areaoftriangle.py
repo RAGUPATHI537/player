@@ -1,4 +1,4 @@
 a=input()
 b=input()
 p=(a*b)/2
-print 
+print p
